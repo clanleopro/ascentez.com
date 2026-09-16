@@ -30,7 +30,7 @@ function AboutPage() {
               We lift<br />what others<br /><span className="red">won't.</span> And we<br />do it safely.
             </h1>
             <p className="sub">
-              Ascentez is a heavy lifting and heavy transportation company based in Mohamed Bin Zayed City, Abu Dhabi. We work across the UAE on the lifts that need engineering, not just a crane.
+              Ascentez is a heavy lifting and heavy transportation company based in Mohamed Bin Zayed City, Abu Dhabi. We work across the UAE on the lifts that need engineering, not just a crane
             </p>
           </div>
           <div className="about-hero-visual">
